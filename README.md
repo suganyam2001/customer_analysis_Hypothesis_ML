@@ -28,7 +28,7 @@ The analysis uses the following data sources:
 3. **Subscription Churn**: Tracks the rate at which users discontinue services.
 4. **Subscription Conversion**: Conversion rate from free users to paying subscribers.
 
-### Technologies Used
-Python (Pandas, NumPy, Scikit-learn, Statsmodels)
-Data Visualization (Matplotlib, Seaborn)
-Machine Learning (K-Means, Linear Regression, PCA)
+## Technologies Used
+Python (Pandas, NumPy, Scikit-learn, Statsmodels)  
+Data Visualization (Matplotlib, Seaborn)  
+Machine Learning (K-Means, Linear Regression, PCA)  
