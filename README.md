@@ -9,9 +9,9 @@ Conversion rate optimization
 Our goal is to identify trends, correlations, segmentations, and predictions to improve customer acquisition and retention strategies.
 
 ## Methodology
-✅ Exploratory Data Analysis (EDA) – Cleaning, visualizing, and summarizing customer engagement trends.
-✅ Statistical Analysis – Pearson correlation, hypothesis testing, and regression modeling to measure key relationships.
-✅ Machine Learning Techniques:
+✅ Exploratory Data Analysis (EDA) – Cleaning, visualizing, and summarizing customer engagement trends.  
+✅ Statistical Analysis – Pearson correlation, hypothesis testing, and regression modeling to measure key relationships.  
+✅ Machine Learning Techniques:  
     Clustering (K-Means, PCA) – Identifies customer segments based on behavior.
     Regression Models (OLS, Linear Regression) – Predicts paying customer trends.
     Time Series Forecasting – Analyzes trends in customer acquisition and retention.
