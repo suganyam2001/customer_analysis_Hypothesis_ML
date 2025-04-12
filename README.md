@@ -12,9 +12,9 @@ Our goal is to identify trends, correlations, segmentations, and predictions to 
 ✅ Exploratory Data Analysis (EDA) – Cleaning, visualizing, and summarizing customer engagement trends.  
 ✅ Statistical Analysis – Pearson correlation, hypothesis testing, and regression modeling to measure key relationships.  
 ✅ Machine Learning Techniques:  
-    Clustering (K-Means, PCA) – Identifies customer segments based on behavior.
-    Regression Models (OLS, Linear Regression) – Predicts paying customer trends.
-    Time Series Forecasting – Analyzes trends in customer acquisition and retention.
+    Clustering (K-Means, PCA) – Identifies customer segments based on behavior.  
+    Regression Models (OLS, Linear Regression) – Predicts paying customer trends.  
+    Time Series Forecasting – Analyzes trends in customer acquisition and retention.  
 
 ## Key Findings
 1. **Declining New Customer Acquisition**: A significant decline in new customer acquisition over time, impacting conversion rates and the number of paying customers.
